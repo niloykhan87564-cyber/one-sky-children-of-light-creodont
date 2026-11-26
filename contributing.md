@@ -195,4 +195,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Sky: Children of the Light · Updated 2026-11-25 · Shared under the MIT License*
+*Sky: Children of the Light · Updated 2026-11-26 · Shared under the MIT License*
